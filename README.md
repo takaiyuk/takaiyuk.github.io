@@ -1,6 +1,8 @@
-# takaiyuk.github.io
+# Resume
 
 https://takaiyuk.github.io/
+
+<br>
 
 ## [Start Bootstrap - Resume](https://startbootstrap.com/template-overviews/resume/)
 
